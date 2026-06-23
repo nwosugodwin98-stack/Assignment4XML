@@ -36,15 +36,15 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
-  <NationalPark Rating="4.7">
-    <Name>Zion</Name>
-    <Phone>435-772-3256</Phone>
-    <Phone>435-772-0170</Phone>
-    <Address NearestAirport="St George Regional Airport">
-      <Number>1</Number>
-      <Street>Zion Park Boulevard</Street>
-      <City>Springdale</City>
-      <State>UT</State>
-      <Zip>84767</Zip>
-  </NationalPark>
+<NationalPark Rating="4.7">
+  <Name>Zion</Name>
+  <Phone>435-772-3256</Phone>
+  <Phone>435-772-0170</Phone>
+  <Address NearestAirport="St George Regional Airport">
+    <Number>1</Number>
+    <Street>Zion Park Boulevard</Street>
+    <City>Springdale</City>
+    <State>UT</State>
+    <Zip>84767</Zip>
+  </Address>
 </NationalPark>

@@ -146,4 +146,30 @@
     </Address>
   </NationalPark>
 
+  <NationalPark Rating="4.7">
+    <Name>Sequoia National Park</Name>
+    <Phone>559-565-3341</Phone>
+    <Phone>559-565-3730</Phone>
+    <Address NearestAirport="Fresno Yosemite International Airport">
+      <Number>47050</Number>
+      <Street>Generals Highway</Street>
+      <City>Three Rivers</City>
+      <State>CA</State>
+      <Zip>93271</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Haleakala National Park</Name>
+    <Phone>808-572-4400</Phone>
+    <Phone>808-572-4459</Phone>
+    <Address NearestAirport="Kahului Airport">
+      <Number>1</Number>
+      <Street>Haleakala Highway</Street>
+      <City>Kula</City>
+      <State>HI</State>
+      <Zip>96790</Zip>
+    </Address>
+  </NationalPark>
+
 </NationalParks>
